@@ -10,7 +10,6 @@
 *.config
 
 *.model
-*.png
 *.mp4
 
 **/snapshots
